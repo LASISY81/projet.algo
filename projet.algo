@@ -1,0 +1,8 @@
+ALGORITHM Cout-optimal-de-location
+VAR
+ nb-km;nb-j;INTEGER
+Cout-j:INTEGER
+Cout-km:INTEGE  
+FOR i FROM min TO max STEP step  DO
+    set_instructions
+END_FOR
